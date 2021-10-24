@@ -1,4 +1,8 @@
-### Expo commands
+# nlw-heat-app
+
+Application with React Native + Expo
+
+## Expo notes
 
 `expo install`
 
@@ -26,5 +30,4 @@ https://github.com/ptelad/react-native-iphone-x-helper
 https://moti.fyi/installation
 https://docs.expo.dev/versions/latest/sdk/reanimated/#experimental-support-for-v2
 
-
-1h26
+### 1h26
